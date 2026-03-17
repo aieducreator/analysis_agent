@@ -15,4 +15,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://oauth2:$HF_TOKEN@huggingface.co/spaces/YOUR_HF_USERNAME/seoul-commercial-agent main -f
+        run: git push https://oauth2:$HF_TOKEN@huggingface.co/spaces/newton89/commercial_data_analysis_agent main -f
