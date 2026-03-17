@@ -1,0 +1,10 @@
+langchain-core
+langgraph
+langgraph-checkpoint-postgres
+pydantic-ai
+psycopg[binary]
+psycopg2-binary
+streamlit
+python-dotenv
+sqlalchemy
+pandas
